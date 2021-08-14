@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/u-patch.js","index.js"],"names":["BASE_URL"],"mappings":";AAAA,MAAMA,EAAW;;ACGjB,aAAA,QAAA","file":"src.105a73ef.js","sourceRoot":"../src","sourcesContent":["const BASE_URL = \"http://localhost:4040\";\n","// import \"./js/r-get\";\n// import \"./js/c-post\";\n// import \"./js/d-delete\";\nimport \"./js/u-patch\";\n"]}
