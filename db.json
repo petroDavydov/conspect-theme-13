@@ -1,0 +1,83 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Last kingdom",
+      "author": "Bernard Kornouel",
+      "generes": ["journey"],
+      "raiting": 8.38
+    },
+
+    {
+      "id": 2,
+      "title": "On the beach",
+      "author": "Robert Shekli",
+      "generes": ["fantastic"],
+      "raiting": 8.51
+    },
+
+    {
+      "id": 3,
+      "title": "Goust Buster",
+      "author": "Hovard Lakraft",
+      "generes": ["horror", "mistic"],
+      "raiting": 7.94
+    },
+
+    {
+      "id": 4,
+      "title": "Faker",
+      "author": "Kafka Franc",
+      "generes": ["clasic"],
+      "raiting": 6.62
+    },
+
+    {
+      "id": 5,
+      "title": "Two Son",
+      "author": "Kudravcev Leonid",
+      "generes": ["fantastic"],
+      "raiting": 6.36
+    },
+
+    {
+      "id": 6,
+      "title": "Dream of funy man",
+      "author": "Dostoevskij Fedor",
+      "generes": ["clasic"],
+      "raiting": 7.75
+    },
+
+    {
+      "id": 7,
+      "title": "New About King",
+      "author": "Sqwerl",
+      "generes": ["funtastic"],
+      "raiting": 9.45
+    },
+
+    {
+      "id": 8,
+      "title": "Simply do it",
+      "author": "Orely",
+      "generes": ["hard talk"],
+      "raiting": 10
+    },
+
+    {
+      "id": 9,
+      "title": "Lough as a rok",
+      "author": "Jim Kerry",
+      "generes": ["comedy"],
+      "raiting": 5.78
+    },
+
+    {
+      "id": 10,
+      "title": "Kill Bill",
+      "author": "Takesgi Katano",
+      "generes": ["blood and true"],
+      "raiting": 11.09
+    }
+  ]
+}
