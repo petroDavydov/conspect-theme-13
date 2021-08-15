@@ -3,4 +3,4 @@ const t="http://localhost:4040";function o(o){return fetch(`${t}/books/${o}`,{me
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/d-delete");
 },{"./js/d-delete":"fx3j"}]},{},["Focm"], null)
-//# sourceMappingURL=/conspect-theme-13/src.9c4e59d5.js.map
+//# sourceMappingURL=/conspect-theme-13/src.ae7f24c6.js.map
