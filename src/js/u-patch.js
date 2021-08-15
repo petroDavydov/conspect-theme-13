@@ -15,3 +15,13 @@ function updateBookById(update, bookId) {
 updateBookById({ title: "Return to the future" }, 11);
 updateBookById({ author: "Miamoto Musashi" }, 10);
 updateBookById({ raiting: 38, author: "Bob Marly" }, 9);
+
+// ==================
+
+// async/await
+
+// async function fetchBookById() {
+//   const response = await fetch(`${BASE_URL}/books/${bookId}`);
+//   const book = response.json();
+//   return book;
+// }

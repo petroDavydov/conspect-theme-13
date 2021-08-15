@@ -11,3 +11,11 @@ function fetchBookById(bookId) {
 fetchBooks();
 fetchBookById(2);
 fetchBookById(4);
+// ===================
+// async/await
+
+// async function fetchBooks() {
+//   const response = await fetch(`${BASE_URL}/books`);
+//   const books = await response.json();
+//   return books;
+// }
