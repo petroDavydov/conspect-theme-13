@@ -20,8 +20,16 @@ updateBookById({ raiting: 38, author: "Bob Marly" }, 9);
 
 // async/await
 
-// async function fetchBookById() {
-//   const response = await fetch(`${BASE_URL}/books/${bookId}`);
+// async function updateBookById(update, bookId) {
+//   const options = {
+//     method: "PATCH",
+//     headers: {
+//       "Content-Type": "application/json",
+//     },
+//     body: JSON.stringify(update),
+//   };
+
+//   const response = await fetch(`${BASE_URL}/books/${bookId}`, options);
 //   const book = response.json();
 //   return book;
 // }
