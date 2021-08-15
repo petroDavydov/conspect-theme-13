@@ -30,6 +30,6 @@ updateBookById({ raiting: 38, author: "Bob Marly" }, 9);
 //   };
 
 //   const response = await fetch(`${BASE_URL}/books/${bookId}`, options);
-//   const book = response.json();
+//   const book = await response.json();
 //   return book;
 // }
